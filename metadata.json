@@ -1,0 +1,6 @@
+{
+  "name": "Google Search Clone",
+  "description": "A Google Search Engine clone featuring a clean, responsive search interface and fast query processing powered by real-time server-side Gemini Search Grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
